@@ -6,7 +6,11 @@ Automatically change REAPER's native Windows dialog fonts to **12pt**.
 
 **[🇬🇧 English](#english) | [🇨🇳 中文](#中文)**
 
----
+## Before / After
+
+| Before | After |
+|---|---|
+| ![Before](exphoto/before.png) | ![After](exphoto/after.png) |
 
 <a id="english"></a>
 
